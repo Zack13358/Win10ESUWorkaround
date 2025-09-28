@@ -1,5 +1,5 @@
 # Win10ESUWorkarounds
-Satya Nadela's Extended Security Asscrack
+Extended Security Help
 
 Run the ESUcheck.bat file  
 "cmd /c ClipESUConsumer.exe -evaluateEligibility" refreshes ESU eligibility  
